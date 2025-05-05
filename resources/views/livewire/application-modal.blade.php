@@ -70,7 +70,7 @@
                             Отмена
                         </button>
                         <button type="submit" class="px-4 py-2 bg-orange-400 text-white rounded hover:bg-orange-500">
-                            Отправить
+                            Сохранить
                         </button>
                     </div>
                 </form>
